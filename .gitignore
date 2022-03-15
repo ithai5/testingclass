@@ -1,0 +1,10 @@
+/node_modules/
+./.idea/*
+./build/*
+/.env
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/prettier.xml
+/build/mocks/setupServer.js
+/.idea/testing.iml
+/.idea/vcs.xml
